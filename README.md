@@ -15,12 +15,12 @@
 ---
 
 ### 💼 Work Experience
-- 🧠 **Backend Engineer at [Dezzex Technologies](https://www.dezzex.com/) September 2025 - Present**  
+- 🧠 **Backend Engineer at [Dezzex Technologies](https://www.dezzex.com/) - September 2025 - Present**  
   Building scalable Django/Python backend systems for **AI-driven real-time analytics** and **performance-based video processing** deployed on AWS.  
   Involved in optimizing APIs, managing inference pipelines, and ensuring reliable cloud integrations.
 
 - 💻 **Trainee Software Engineer at [Bosleo Technologies](https://www.bosleo.com/) January 2025 - August 2025**  
-  Contributing to the frontend development of **Alex**, a healthcare-focused product, using **Angular** and **RxJS**.  
+  Contributed to the frontend development of **Alex**, a healthcare-focused product, using **Angular** and **RxJS**.  
   Worked on crafting dynamic data-driven UI components, handling API integrations, and ensuring responsive, high-performance user experiences aligned with modern design principles.
 
 ---
