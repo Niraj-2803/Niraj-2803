@@ -10,18 +10,22 @@
   </a>
 </h1>
 
-<h3 align="center">An AI & Full-Stack Developer from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 ---
 
-### 💼 Currently Working On
-- 🧠 **Backend Engineer at [Dezzex Technologies](https://www.dezzex.com/)**  
+### 💼 Work Experience
+- 🧠 **Backend Engineer at [Dezzex Technologies](https://www.dezzex.com/) September 2025 - Present**  
   Building scalable Django/Python backend systems for **AI-driven real-time analytics** and **performance-based video processing** deployed on AWS.  
   Involved in optimizing APIs, managing inference pipelines, and ensuring reliable cloud integrations.
 
+- 💻 **Trainee Software Engineer at [Bosleo Technologies](https://www.bosleo.com/) January 2025 - August 2025**  
+  Contributing to the frontend development of **Alex**, a healthcare-focused product, using **Angular** and **RxJS**.  
+  Worked on crafting dynamic data-driven UI components, handling API integrations, and ensuring responsive, high-performance user experiences aligned with modern design principles.
+
 ---
 
-### 🌱 Currently Learning
+### 🌱 Certifications & Cources
 - Machine Learning & Data Science *(GeeksforGeeks)*
 - MERN Stack Development *(CodeHelp)*
 - Programming with JavaScript *(Coursera Meta)*
