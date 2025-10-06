@@ -90,9 +90,10 @@
 
 ### 🏆 Achievements
 - State Finalist – *DIPEX 2025*
-- Google Cloud Arcade Facilitator Program
+- Completed Milestone at Google Cloud Arcade Facilitator Program
 - Technical Lead – *Phoenix Club, K.K. Wagh*
 - Solved 300+ Problems (LeetCode, CodeChef, GFG)
+- Best All-Rounder in Monsoon Premier League *(Leather Ball Cricket)*
 
 ---
 
